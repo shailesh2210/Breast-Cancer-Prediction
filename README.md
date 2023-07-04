@@ -38,8 +38,8 @@ Class distribution: 357 benign, 212 malignant
 - Numpy
 - Seaborn
 - Matplotlib
-- sklearn
-- flask
+- Sklearn
+- Flask
 - Html
 - Bootstrap
 
