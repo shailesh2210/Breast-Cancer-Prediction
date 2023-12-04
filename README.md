@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Breast-Cancer-Prediction
 
 ## what is Breast Cancer Prediction?
@@ -7,31 +6,8 @@ Breast cancer prediction involves utilizing data analysis, machine learning, and
 ## Goal of this project
 The goal of breast cancer prediction in machine learning is to develop accurate and efficient algorithms that analyze diverse data, including genetic information and clinical parameters, to predict the likelihood of an individual developing breast cancer, enabling timely intervention and personalized healthcare.
 
-## Data set
 ## This dataset has been referred from Kaggle.
-## [Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
-
-## Dataset Description
-Description:
-Breast cancer is the most common cancer amongst women in the world. It accounts for 25% of all cancer cases, and affected over 2.1 Million people in 2015 alone. It starts when cells in the breast begin to grow out of control. These cells usually form tumors that can be seen via X-ray or felt as lumps in the breast area.
-
-The key challenges against it’s detection is how to classify tumors into malignant (cancerous) or benign(non cancerous). We ask you to complete the analysis of classifying these tumors using machine learning (with SVMs) and the Breast Cancer Wisconsin (Diagnostic) Dataset.
-
-## Tech Stack Used
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- sklearn
-- flask
-- HTML
-- CSS
-=======
-# Breast-Cancer-Prediction End-To-End Project
-
-#### The goal is to classify whether the breast cancer is benign or malignant. To achieve this i have used machine learning classification methods to fit a function that can predict the discrete class of new input.
-
- ## [Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+## [Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 ## Attribute Information:
 
@@ -63,14 +39,14 @@ Missing attribute values: none
 Class distribution: 357 benign, 212 malignant
 
 ## Tech Stack Used
-- Pandas
-- Numpy
-- Seaborn
-- Matplotlib
-- Sklearn
-- Flask
-- Html
->>>>>>> c915fab5a026749d075059913b1f3bad84b532e4
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- sklearn
+- flask
+- HTML
+- CSS
 - Bootstrap
 
 ## To access this project
@@ -100,4 +76,3 @@ python app.py
 #### [Github](https://github.com/shailesh2210) | [Linkedin](https://www.linkedin.com/in/shailesh-gaddam-262988218/)
 =======
 #### [Github](https://github.com/shailesh2210) | [Linkedin](https://www.linkedin.com/in/shailesh-gaddam-262988218/)
->>>>>>> c915fab5a026749d075059913b1f3bad84b532e4
